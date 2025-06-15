@@ -34,4 +34,4 @@ Fungsi utama:
 
 Link hasil program: https://drive.google.com/drive/folders/1XdceKvdpNFGNucVjxAzzEf1ALRtcRk3d?usp=sharing
 
-Link Vidio Youtube:
+Link Vidio Youtube: https://youtu.be/oO3aDaeoa8E?si=A2IWRCxKEW1wJn1u
