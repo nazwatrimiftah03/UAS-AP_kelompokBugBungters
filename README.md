@@ -26,3 +26,6 @@ Ini adalah game konsol sederhana yang meniru konsep minesweeper dengan tema "jud
 4.Jika aman (O) → lanjut bermain
 
 5.Menang jika berhasil membuka 18 kotak aman (total 20 - 2 bom)
+
+Link hasil program: https://drive.google.com/drive/folders/1XdceKvdpNFGNucVjxAzzEf1ALRtcRk3d?usp=sharing
+Link Vidio Youtube:
