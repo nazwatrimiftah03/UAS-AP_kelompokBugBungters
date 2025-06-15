@@ -15,10 +15,14 @@ Anggota:
 # Deskripsi
 Ini adalah game konsol sederhana yang meniru konsep minesweeper dengan tema "judi lotre". Intinya pemain harus menebak kotak-kotak dalam grid 4x5 sambil menghindari 2 bom yang ditempatkan secara acak.
 
-Alur Permainan
+# Alur Permainan
 
-Player memilih koordinat baris (1-4) dan kolom (1-5)
-Sistem membuka kotak yang dipilih
-Jika kena bom (X) → game over, tawarkan main lagi
-Jika aman (O) → lanjut bermain
-Menang jika berhasil membuka 18 kotak aman (total 20 - 2 bom)
+1.Player memilih koordinat baris (1-4) dan kolom (1-5)
+
+2.Sistem membuka kotak yang dipilih
+
+3.Jika kena bom (X) → game over, tawarkan main lagi
+
+4.Jika aman (O) → lanjut bermain
+
+5.Menang jika berhasil membuka 18 kotak aman (total 20 - 2 bom)
